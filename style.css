@@ -1,0 +1,20 @@
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  color: black;
+  background: #00990d url("img/artificial-grass.jpg") no-repeat 50%;
+}
+
+h1 {
+  color: yellow;
+  text-align: center;
+}
+
+p{
+    background: rgba(0, 255, 50, 0.5);
+    padding: 20px;
+}
+
+img{
+    width: 100px;
+}
