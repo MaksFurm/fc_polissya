@@ -8,12 +8,20 @@ body {
 
 #highlits {
   display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.highlits-content {
+  display: flex;
   flex-direction: row;
   gap: 20px;
 }
-.highlits-content article{
+
+.highlits-content article {
   width: 500px;
 }
+
 h1 {
   color: yellow;
   text-align: center;
